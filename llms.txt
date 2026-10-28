@@ -1,0 +1,31 @@
+# Ecommerce AI video skills for Claude Code and AI agents
+
+> Turn a product photo into the video ad formats that sell on TikTok Shop, Reels and Meta in 2026: ASMR unboxing, problem → solution, singing mascot jingle, try-on, dropshipping guide reel, 20 hook variants, localized versions and a compliance check. Open agent skills (vargHQ/skills) tested end to end on varg.ai, from $0.05 to $9 per run.
+
+## For agents
+- [AGENTS.md](https://github.com/vargHQ/ecommerce-ai-video-skills/blob/main/AGENTS.md): what to ask the seller, how to pick a format, checks before posting
+- [working-themes.json](https://github.com/vargHQ/ecommerce-ai-video-skills/blob/main/working-themes.json): 10 formats with evidence, skill, cost and example video
+- [PROMPTS.md](https://github.com/vargHQ/ecommerce-ai-video-skills/blob/main/PROMPTS.md): the tested prompts behind every example
+
+## Skills
+- [varg-unboxing-video](https://github.com/vargHQ/skills/tree/main/varg-unboxing-video): product photos → hands-only ASMR unboxing
+- [varg-product-lock](https://github.com/vargHQ/skills/tree/main/varg-product-lock): keep the product identical in every AI shot
+- [ai-ad-compliance-check](https://github.com/vargHQ/skills/tree/main/ai-ad-compliance-check): AI ad → TikTok Shop / Meta / FTC / EU compliance report
+- [varg-ad-library-remix](https://github.com/vargHQ/skills/tree/main/varg-ad-library-remix): winning competitor ads → new angles
+- [varg-ad-variants](https://github.com/vargHQ/skills/tree/main/varg-ad-variants): one winning ad → 20 variants
+- [varg-mascot-jingle-ad](https://github.com/vargHQ/skills/tree/main/varg-mascot-jingle-ad): product → singing mascot ad
+- [varg-ad-localize](https://github.com/vargHQ/skills/tree/main/varg-ad-localize): one ad → 8+ markets
+- [varg-tryon-video](https://github.com/vargHQ/skills/tree/main/varg-tryon-video): flat-lay → try-on video
+- [varg-product-hook](https://github.com/vargHQ/skills/tree/main/varg-product-hook): product photos → viral product hook
+- [varg-dropship-reel](https://github.com/vargHQ/skills/tree/main/varg-dropship-reel): product → 60 s dropshipping guide reel
+
+## How-to guides
+- [How to make viral ecommerce videos for TikTok and Reels](https://varg.ai/how-to/make-viral-ecommerce-videos)
+- [How to make a TikTok Shop video with AI](https://varg.ai/how-to/make-a-tiktok-shop-video)
+- [How to make video ad variants for testing with AI](https://varg.ai/how-to/make-video-ad-variants-for-testing)
+- [How to remake a reference video with AI](https://varg.ai/how-to/remake-a-reference-video)
+- [How to make ecommerce videos: 25 hard questions answered](https://varg.ai/how-to/ecommerce-video-questions/)
+
+## Optional
+- [How to make AI videos for dropshipping](https://github.com/vargHQ/how-to-make-ai-videos-for-dropshipping): the 60 s guide reel tutorial with 5 examples
+- [varg how to index](https://varg.ai/how-to/llms.txt)

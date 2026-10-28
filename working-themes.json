@@ -1,0 +1,220 @@
+{
+  "name": "Ecommerce AI video skills for Claude Code and AI agents",
+  "updated": "2026-10-28",
+  "repo": "https://github.com/vargHQ/ecommerce-ai-video-skills",
+  "platform": "https://varg.ai",
+  "mcp": "https://mcp.varg.ai/mcp",
+  "credit_usd": 0.01,
+  "themes": [
+    {
+      "id": "asmr-unboxing",
+      "format": "Hands-only ASMR unboxing, native sound, no music",
+      "fits": [
+        "premium or giftable product",
+        "packaged product",
+        "no ads yet on Meta"
+      ],
+      "evidence": "Highest winner rate of any Meta ad format (9.8%) while only 2.1% of ads use it (Motion 2026, 578,750 ads)",
+      "evidence_url": "https://runneth.com/library/research/creative-benchmarks-2026/top-visual-formats",
+      "skill": "varg-unboxing-video",
+      "skill_url": "https://github.com/vargHQ/skills/tree/main/varg-unboxing-video",
+      "install": "npx skills add vargHQ/skills --skill varg-unboxing-video",
+      "cost_usd": 3.9,
+      "cost_note": "10 s Seedance 2.5 with audio (385 credits) + box image (5)",
+      "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_942e9a6efa1c.mp4",
+      "example_thumb": "examples/unboxing-asmr.jpg",
+      "say_to_agent": "Make a 10 s ASMR unboxing of this product: <photo URL>. No box photo, make one.",
+      "how_to": "https://varg.ai/how-to/make-viral-ecommerce-videos"
+    },
+    {
+      "id": "problem-vs-solution",
+      "format": "Problem → 'Vs…' → solution, music and text, no voice",
+      "fits": [
+        "gadget that fixes an everyday annoyance",
+        "faceless account"
+      ],
+      "evidence": "Five-beat reel structure posted daily by TikTok and Instagram product pages; broken down from a live reel (Oct 2026)",
+      "evidence_url": null,
+      "skill": "varg-product-hook",
+      "skill_url": "https://github.com/vargHQ/skills/tree/main/varg-product-hook",
+      "install": "npx skills add vargHQ/skills --skill varg-product-hook",
+      "cost_usd": 8.0,
+      "cost_note": "≈ $7–9: 2 Kling 4 clips + 2–3 Seedance 2.5 clips + music (23 credits)",
+      "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_a2aa0853b683.mp4",
+      "example_thumb": "examples/competitor-remix-gap-filler.jpg",
+      "say_to_agent": "Make a 20 s problem → Vs → solution reel for <product>, music only, sentence-case text with emoji.",
+      "how_to": "https://varg.ai/how-to/write-video-hooks-that-sell"
+    },
+    {
+      "id": "dropship-guide-reel",
+      "format": "60 s dropshipping guide reel: hook, laptop and pen, price math, steps, 'Comment GUIDE'",
+      "fits": [
+        "affiliate or dropshipping education account",
+        "faceless account"
+      ],
+      "evidence": "Posted every day by @tradelle and its affiliates on Instagram (Oct 2026)",
+      "evidence_url": null,
+      "skill": "varg-dropship-reel",
+      "skill_url": "https://github.com/vargHQ/skills/tree/main/varg-dropship-reel",
+      "install": "npx skills add vargHQ/skills --skill varg-dropship-reel",
+      "cost_usd": 8.6,
+      "cost_note": "~860 credits per product after the first (~1,250)",
+      "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_d45406f8d0db.mp4",
+      "example_thumb": "examples/compliance-checked-light-reel.jpg",
+      "say_to_agent": "Make a dropshipping guide reel for <photo URL>. Cost $6.80, sells for $34.99. Hook: backyard security camera.",
+      "how_to": "https://github.com/vargHQ/how-to-make-ai-videos-for-dropshipping"
+    },
+    {
+      "id": "viral-product-hook",
+      "format": "Viral product hook: security cam, torture test, satisfying close-up, gift reaction, before/after",
+      "fits": [
+        "gadget or tool with a visible effect",
+        "any product, as the first 3 s of an ad"
+      ],
+      "evidence": "The first 3 s decide the ad; these archetypes recur in top TikTok Shop videos",
+      "evidence_url": null,
+      "skill": "varg-product-hook",
+      "skill_url": "https://github.com/vargHQ/skills/tree/main/varg-product-hook",
+      "install": "npx skills add vargHQ/skills --skill varg-product-hook",
+      "cost_usd": 2.31,
+      "cost_note": "6 s Seedance 2.5 clip (231 credits)",
+      "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_631fb721a315.mp4",
+      "example_thumb": null,
+      "say_to_agent": "Find a hook that already sells this kind of product and remake it with <photo URL>.",
+      "how_to": "https://varg.ai/how-to/write-video-hooks-that-sell"
+    },
+    {
+      "id": "singing-mascot",
+      "format": "Singing mascot jingle: the product as a clay character",
+      "fits": [
+        "cheap impulse product",
+        "kids or pets",
+        "brand that needs recall"
+      ],
+      "evidence": "AI 'musical' ads with singing cartoon narrators ran by the thousand on Meta and Google in 2026; many were pulled for health claims (CNN, 2026-10-28)",
+      "evidence_url": "https://abc17news.com/news/national-world/cnn-national/2026/10/28/the-new-frontier-for-ads-is-racist-cartoon-ai-musical-microdrama/",
+      "skill": "varg-mascot-jingle-ad",
+      "skill_url": "https://github.com/vargHQ/skills/tree/main/varg-mascot-jingle-ad",
+      "install": "npx skills add vargHQ/skills --skill varg-mascot-jingle-ad",
+      "cost_usd": 5.93,
+      "cost_note": "mascot image (5) + Lyria jingle (10) + 15 s Seedance 2.5 with audio reference (578)",
+      "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_b1f093b28659.mp4",
+      "example_thumb": "examples/singing-mascot-jingle.jpg",
+      "say_to_agent": "Turn <product> into a claymation mascot that sings a 15 s jingle with the brand name in the hook.",
+      "how_to": "https://varg.ai/how-to/make-an-ai-music-video"
+    },
+    {
+      "id": "try-on-fit-check",
+      "format": "Try-on fit check from a flat-lay",
+      "fits": [
+        "clothing",
+        "apparel dropshipping"
+      ],
+      "evidence": "Shows drape and size, the two things clothes buyers can't check online",
+      "evidence_url": null,
+      "skill": "varg-tryon-video",
+      "skill_url": "https://github.com/vargHQ/skills/tree/main/varg-tryon-video",
+      "install": "npx skills add vargHQ/skills --skill varg-tryon-video",
+      "cost_usd": 0.83,
+      "cost_note": "Bria try-on still (4) + 5 s Kling 4 (79)",
+      "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1213e32adbda.mp4",
+      "example_thumb": "examples/try-on-fit-check.jpg",
+      "say_to_agent": "Put this <garment flat-lay URL> on a model and make a 5 s fit check: turn, tug, size caption.",
+      "how_to": "https://varg.ai/how-to/swap-your-character-into-a-video"
+    },
+    {
+      "id": "winner-variants",
+      "format": "20 variants of a winning ad: new hooks, personas, formats",
+      "fits": [
+        "a winner that is fatiguing",
+        "scaling on Meta or TikTok"
+      ],
+      "evidence": "After Meta's Andromeda update look-alike ads compete as one; sellers test 20–40 creatives a week",
+      "evidence_url": "https://theoptimizer.io/blog/how-to-test-ad-creatives-on-meta-after-the-andromeda-update-2026-playbook",
+      "skill": "varg-ad-variants",
+      "skill_url": "https://github.com/vargHQ/skills/tree/main/varg-ad-variants",
+      "install": "npx skills add vargHQ/skills --skill varg-ad-variants",
+      "cost_usd": 0.01,
+      "cost_note": "$0.01 per spoken hook line on existing clips; $2.32 with a new 6 s hook clip",
+      "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_565f31d99f3a.mp4",
+      "example_thumb": "examples/hook-variant-pov-mandoline.jpg",
+      "say_to_agent": "Turn this winning ad <URL> into 20 variants: 7 new concepts and 13 single-variable iterations, with a test plan.",
+      "how_to": "https://varg.ai/how-to/make-video-ad-variants-for-testing"
+    },
+    {
+      "id": "competitor-remix",
+      "format": "Competitor winner remix: a new angle on a proven structure",
+      "fits": [
+        "new product, no ads yet",
+        "entering a niche"
+      ],
+      "evidence": "Ads running 30+ days with 5+ variants are being scaled (agency heuristic); ideas and structures are free to reuse, footage is not",
+      "evidence_url": "https://www.gfrlaw.com/what-we-do/insights/copyright-idea-can-be-copied-not-expression",
+      "skill": "varg-ad-library-remix",
+      "skill_url": "https://github.com/vargHQ/skills/tree/main/varg-ad-library-remix",
+      "install": "npx skills add vargHQ/skills --skill varg-ad-library-remix",
+      "cost_usd": 0.05,
+      "cost_note": "5 credits per ad analysed; production cost depends on the format",
+      "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_a2aa0853b683.mp4",
+      "example_thumb": "examples/competitor-remix-gap-filler.jpg",
+      "say_to_agent": "Here are 8 competitor ads from the Meta Ad Library: <URLs>. Break them down and give me 15 new concepts for <product>.",
+      "how_to": "https://varg.ai/how-to/remake-a-reference-video"
+    },
+    {
+      "id": "new-market",
+      "format": "The winner in a new market: transcreated, same voice, re-cut",
+      "fits": [
+        "selling cross-border",
+        "a winner in one market"
+      ],
+      "evidence": "TikTok Shop opened AT, BE, NL and PL in June 2026 after DE, FR, IT and ES in 2025",
+      "evidence_url": "https://www.shopifreaks.com/tiktok-expands-tiktok-shop-to-austria-belgium-the-netherlands-and-poland-starting-june-15/",
+      "skill": "varg-ad-localize",
+      "skill_url": "https://github.com/vargHQ/skills/tree/main/varg-ad-localize",
+      "install": "npx skills add vargHQ/skills --skill varg-ad-localize",
+      "cost_usd": 0.08,
+      "cost_note": "ElevenLabs v4 voiceover (8 credits) for a faceless ad; lip-sync extra",
+      "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_f4e15b912ef1.mp4",
+      "example_thumb": "examples/localized-spanish-gloves.jpg",
+      "say_to_agent": "Localize this ad <URL> for TikTok Shop Mexico and Germany with an offer card per market.",
+      "how_to": "https://varg.ai/how-to/make-video-ad-variants-for-testing"
+    },
+    {
+      "id": "ai-ugc-actor",
+      "format": "AI UGC creator ad: a talking actor reads your script",
+      "fits": [
+        "paid social default",
+        "products that need explaining"
+      ],
+      "evidence": "The default paid-social format; must carry AI labels and no first-person 'I used it' claims (FTC 16 CFR 465)",
+      "evidence_url": "https://varg.ai/how-to/make-a-ugc-ad-video",
+      "skill": "ai-ugc-ad-video",
+      "skill_url": "https://github.com/vargHQ/skills/tree/main/ai-ugc-ad-video",
+      "install": "npx skills add vargHQ/skills --skill ai-ugc-ad-video",
+      "cost_usd": null,
+      "cost_note": "depends on length and avatar model",
+      "example_video": null,
+      "example_thumb": null,
+      "say_to_agent": "Make a 20 s UGC ad for <product> with an AI creator, labelled as AI.",
+      "how_to": "https://varg.ai/how-to/make-a-ugc-ad-video"
+    }
+  ],
+  "always_use": [
+    {
+      "id": "product-lock",
+      "skill": "varg-product-lock",
+      "skill_url": "https://github.com/vargHQ/skills/tree/main/varg-product-lock",
+      "when": "whenever the product appears in a generated shot",
+      "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_332df2a110a0.mp4",
+      "cost_note": "5 credits per side-profile reference + 5 per drift check"
+    },
+    {
+      "id": "compliance-check",
+      "skill": "ai-ad-compliance-check",
+      "skill_url": "https://github.com/vargHQ/skills/tree/main/ai-ad-compliance-check",
+      "when": "before any ad goes live",
+      "example_report": "https://github.com/vargHQ/skills/blob/main/ai-ad-compliance-check/references/example-report.md",
+      "cost_note": "5 credits per ad"
+    }
+  ]
+}
