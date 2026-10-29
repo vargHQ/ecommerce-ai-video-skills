@@ -24,7 +24,9 @@
       "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_942e9a6efa1c.mp4",
       "example_thumb": "examples/unboxing-asmr.jpg",
       "say_to_agent": "Make a 10 s ASMR unboxing of this product: <photo URL>. No box photo, make one.",
-      "how_to": "https://varg.ai/how-to/make-viral-ecommerce-videos"
+      "how_to": "https://varg.ai/how-to/make-viral-ecommerce-videos",
+      "headline": "Turn product photos into an AI ASMR unboxing video",
+      "card_url": "https://varg.ai/how-to/skills/ai-unboxing-video"
     },
     {
       "id": "problem-vs-solution",
@@ -43,7 +45,9 @@
       "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_a2aa0853b683.mp4",
       "example_thumb": "examples/competitor-remix-gap-filler.jpg",
       "say_to_agent": "Make a 20 s problem → Vs → solution reel for <product>, music only, sentence-case text with emoji.",
-      "how_to": "https://varg.ai/how-to/write-video-hooks-that-sell"
+      "how_to": "https://varg.ai/how-to/write-video-hooks-that-sell",
+      "headline": "Turn product photos into a viral product hook",
+      "card_url": "https://varg.ai/how-to/skills/varg-product-hook"
     },
     {
       "id": "dropship-guide-reel",
@@ -62,7 +66,9 @@
       "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_d45406f8d0db.mp4",
       "example_thumb": "examples/compliance-checked-light-reel.jpg",
       "say_to_agent": "Make a dropshipping guide reel for <photo URL>. Cost $6.80, sells for $34.99. Hook: backyard security camera.",
-      "how_to": "https://github.com/vargHQ/how-to-make-ai-videos-for-dropshipping"
+      "how_to": "https://github.com/vargHQ/how-to-make-ai-videos-for-dropshipping",
+      "headline": "Turn a product into a dropshipping guide reel",
+      "card_url": "https://varg.ai/how-to/skills/varg-dropship-reel"
     },
     {
       "id": "viral-product-hook",
@@ -81,7 +87,9 @@
       "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_631fb721a315.mp4",
       "example_thumb": null,
       "say_to_agent": "Find a hook that already sells this kind of product and remake it with <photo URL>.",
-      "how_to": "https://varg.ai/how-to/write-video-hooks-that-sell"
+      "how_to": "https://varg.ai/how-to/write-video-hooks-that-sell",
+      "headline": "Turn product photos into a viral product hook",
+      "card_url": "https://varg.ai/how-to/skills/varg-product-hook"
     },
     {
       "id": "singing-mascot",
@@ -101,7 +109,9 @@
       "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_b1f093b28659.mp4",
       "example_thumb": "examples/singing-mascot-jingle.jpg",
       "say_to_agent": "Turn <product> into a claymation mascot that sings a 15 s jingle with the brand name in the hook.",
-      "how_to": "https://varg.ai/how-to/make-an-ai-music-video"
+      "how_to": "https://varg.ai/how-to/make-an-ai-music-video",
+      "headline": "Turn a product into an AI singing mascot jingle ad",
+      "card_url": "https://varg.ai/how-to/skills/singing-mascot-jingle-ad"
     },
     {
       "id": "try-on-fit-check",
@@ -120,7 +130,9 @@
       "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_1213e32adbda.mp4",
       "example_thumb": "examples/try-on-fit-check.jpg",
       "say_to_agent": "Put this <garment flat-lay URL> on a model and make a 5 s fit check: turn, tug, size caption.",
-      "how_to": "https://varg.ai/how-to/swap-your-character-into-a-video"
+      "how_to": "https://varg.ai/how-to/swap-your-character-into-a-video",
+      "headline": "Turn a flat-lay photo into an AI virtual try-on video",
+      "card_url": "https://varg.ai/how-to/skills/ai-virtual-try-on-video"
     },
     {
       "id": "winner-variants",
@@ -139,7 +151,9 @@
       "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_565f31d99f3a.mp4",
       "example_thumb": "examples/hook-variant-pov-mandoline.jpg",
       "say_to_agent": "Turn this winning ad <URL> into 20 variants: 7 new concepts and 13 single-variable iterations, with a test plan.",
-      "how_to": "https://varg.ai/how-to/make-video-ad-variants-for-testing"
+      "how_to": "https://varg.ai/how-to/make-video-ad-variants-for-testing",
+      "headline": "Turn one winning video ad into 20 AI ad variations",
+      "card_url": "https://varg.ai/how-to/skills/ai-ad-variations"
     },
     {
       "id": "competitor-remix",
@@ -158,7 +172,9 @@
       "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_a2aa0853b683.mp4",
       "example_thumb": "examples/competitor-remix-gap-filler.jpg",
       "say_to_agent": "Here are 8 competitor ads from the Meta Ad Library: <URLs>. Break them down and give me 15 new concepts for <product>.",
-      "how_to": "https://varg.ai/how-to/remake-a-reference-video"
+      "how_to": "https://varg.ai/how-to/remake-a-reference-video",
+      "headline": "Turn winning competitor ads into new AI video ad angles",
+      "card_url": "https://varg.ai/how-to/skills/competitor-ad-remix"
     },
     {
       "id": "new-market",
@@ -177,7 +193,9 @@
       "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_f4e15b912ef1.mp4",
       "example_thumb": "examples/localized-spanish-gloves.jpg",
       "say_to_agent": "Localize this ad <URL> for TikTok Shop Mexico and Germany with an offer card per market.",
-      "how_to": "https://varg.ai/how-to/make-video-ad-variants-for-testing"
+      "how_to": "https://varg.ai/how-to/make-video-ad-variants-for-testing",
+      "headline": "Turn one video ad into 8 languages with AI dubbing",
+      "card_url": "https://varg.ai/how-to/skills/ai-video-ad-translation"
     },
     {
       "id": "ai-ugc-actor",
@@ -196,7 +214,9 @@
       "example_video": null,
       "example_thumb": null,
       "say_to_agent": "Make a 20 s UGC ad for <product> with an AI creator, labelled as AI.",
-      "how_to": "https://varg.ai/how-to/make-a-ugc-ad-video"
+      "how_to": "https://varg.ai/how-to/make-a-ugc-ad-video",
+      "headline": "Open-source alternative to Arcads: AI UGC ads",
+      "card_url": "https://varg.ai/how-to/skills/ai-ugc-ad-video"
     }
   ],
   "always_use": [
@@ -206,7 +226,9 @@
       "skill_url": "https://github.com/vargHQ/skills/tree/main/varg-product-lock",
       "when": "whenever the product appears in a generated shot",
       "example_video": "https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_332df2a110a0.mp4",
-      "cost_note": "5 credits per side-profile reference + 5 per drift check"
+      "cost_note": "5 credits per side-profile reference + 5 per drift check",
+      "headline": "Turn product photos into AI video that keeps the logo and shape",
+      "card_url": "https://varg.ai/how-to/skills/consistent-product-ai-video"
     },
     {
       "id": "compliance-check",
@@ -214,7 +236,9 @@
       "skill_url": "https://github.com/vargHQ/skills/tree/main/ai-ad-compliance-check",
       "when": "before any ad goes live",
       "example_report": "https://github.com/vargHQ/skills/blob/main/ai-ad-compliance-check/references/example-report.md",
-      "cost_note": "5 credits per ad"
+      "cost_note": "5 credits per ad",
+      "headline": "Turn an AI video ad into a TikTok Shop and Meta compliance report",
+      "card_url": "https://varg.ai/how-to/skills/tiktok-shop-ad-compliance-check"
     }
   ]
 }
