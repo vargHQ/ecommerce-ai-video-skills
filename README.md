@@ -69,18 +69,18 @@ Rules for every format: run `varg-product-lock` whenever the product is in a gen
 
 | Piece | Model | Credits | USD |
 |---|---|---|---|
-| Product clip, 6 s, 720p, with a reference | Seedance 2.5 | 231 | $2.31 |
-| ASMR unboxing, 10 s, native sound | Seedance 2.5 | 385 | $3.85 |
-| Mascot singing to a song, 15 s | Seedance 2.5 (image + audio reference) | 578 | $5.78 |
-| Fit check or laptop shot, 5 s | Kling 4 | 79 | $0.79 |
-| Try-on still | Bria Virtual Try-On | 4 | $0.04 |
-| Box, mascot, side profile (image edit) | Nano Banana 2.1 | 5 | $0.05 |
-| Jingle | Lyria 3.5 | 10 | $0.10 |
-| Music bed, 30 s | Mureka 9.5 | 23 | $0.23 |
-| Voiceover, 60 s / one hook line | ElevenLabs v4 | 8 / 1 | $0.08 / $0.01 |
-| Ad breakdown or compliance analysis | video-analyze | 5 | $0.05 |
+| Product clip, 6 s, 720p, with a reference | [Seedance 2.5](https://varg.ai/models/seedance_2_5) | 231 | $2.31 |
+| ASMR unboxing, 10 s, native sound | [Seedance 2.5](https://varg.ai/models/seedance_2_5) | 385 | $3.85 |
+| Mascot singing to a song, 15 s | [Seedance 2.5](https://varg.ai/models/seedance_2_5) (image + audio reference) | 578 | $5.78 |
+| Fit check or laptop shot, 5 s | [Kling 4](https://varg.ai/models/kling_v4) | 79 | $0.79 |
+| Try-on still | [Bria Virtual Try-On](https://varg.ai/models/bria_fibo_edit_1_5_virtual_try_on) | 4 | $0.04 |
+| Box, mascot, side profile (image edit) | [Nano Banana 2.1](https://varg.ai/models/nano_banana_2_1) | 5 | $0.05 |
+| Jingle | [Lyria 3.5](https://varg.ai/models/lyria_3_5) | 10 | $0.10 |
+| Music bed, 30 s | [Mureka 9.5](https://varg.ai/models/mureka_9_5) | 23 | $0.23 |
+| Voiceover, 60 s / one hook line | [ElevenLabs v4](https://varg.ai/models/eleven_v4) | 8 / 1 | $0.08 / $0.01 |
+| Ad breakdown or compliance analysis | [video-analyze](https://varg.ai/models/video-analyze) | 5 | $0.05 |
 
-Varg bills at provider price with no markup. Cuts, captions and hook swaps run locally with FFmpeg for free.
+Varg bills at provider price with no markup; every model has a page with its price rule, its parameters and a call to copy: [varg.ai/models](https://varg.ai/models). Cuts, captions and hook swaps run locally with FFmpeg for free.
 
 ## Install (Claude Code, Codex, Cursor, Gemini CLI, OpenClaw)
 
